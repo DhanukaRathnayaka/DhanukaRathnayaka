@@ -60,15 +60,18 @@ Aspiring Software Engineering Intern | Full-Stack • Mobile • AI/ML
 
 <h3>📊 GitHub Activity</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanukarathnayaka&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarathnayaka&layout=compact&theme=transparent&hide_border=true" height="160"/>
-</p>
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukarathnayaka&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dhanukarathnayaka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarathnayaka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="160"
+  />
 </p>
-
 ---
 
 <h3>🏆 Achievements</h3>
