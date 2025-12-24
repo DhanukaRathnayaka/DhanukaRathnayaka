@@ -17,6 +17,14 @@ Aspiring Software Engineering Intern | Full-Stack • Mobile • AI/ML
 
 ---
 
+<!-- ================= SKILL ICONS ================= -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,flutter,react,nodejs,spring,aws,docker,kubernetes,mongodb,postgres,firebase,tensorflow&theme=dark" />
+</p>
+
+---
+
 <h3>🚀 Focus</h3>
 
 <ul>
@@ -44,8 +52,8 @@ Aspiring Software Engineering Intern | Full-Stack • Mobile • AI/ML
 
 <ul>
   <li><strong>SafeSpace</strong> – AI-powered mental health mobile platform</li>
-  <li><strong>ML Network Intrusion Detection System</strong></li>
-  <li><strong>Cloud-based Full-Stack Web Applications</strong></li>
+  <li><strong>Network Intrusion Detection System</strong> – ML-based security solution</li>
+  <li><strong>Cloud-based Full-Stack Applications</strong></li>
 </ul>
 
 ---
@@ -53,12 +61,42 @@ Aspiring Software Engineering Intern | Full-Stack • Mobile • AI/ML
 <h3>📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanukarathnayaka&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarathnayaka&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanukarathnayaka&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarathnayaka&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukarathnayaka&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h3>🏆 Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanukarathnayaka&theme=tokyonight&no-frame=true&row=1&column=5" />
+</p>
+
+---
+
+<h3>🔗 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dhanuka-rathnayaka">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dhanukarathnayakakck@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dhanuka-dev2-0.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
